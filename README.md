@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Phanich28
-- 👀 I’m interested in DataAnalysis,MachineLearning,DeepLearning,ComputerVision.
+- 👀 I’m interested in Data Engineering,MachineLearning,ComputerVision.
 - 📫You can reach me at @chaduvulaphaneendra@gmail.com
 
 <!---
