@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phanich28
+- 👋 Hi, I’m Phani
 - 👀 I’m interested in Data Engineering, MachineLearning, and ComputerVision.
 - 📫You can reach me at chaduvulaphaneendra@gmail.com
 
